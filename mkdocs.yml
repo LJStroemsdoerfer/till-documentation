@@ -19,7 +19,10 @@ plugins:
 - search
 nav:
 - till: index.md
-- features.md
+- Python:
+  - python-main.md
+- R:
+  - r-main.md
 markdown_extensions:
 - toc:
     permalink: true
