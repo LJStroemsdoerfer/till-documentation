@@ -20,9 +20,9 @@ plugins:
 nav:
 - till: index.md
 - Python:
-  - python-main.md
+  - python/python-main.md
 - R:
-  - r-main.md
+  - R/r-main.md
 markdown_extensions:
 - toc:
     permalink: true
