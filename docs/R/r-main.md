@@ -2,7 +2,7 @@
 
 ## Installation
 
-<code>till</code> can be downloaded from <a href="https://cran.r-project.org">CRAN</code>. We provide a standard R interface, so no surpises there.
+<code>till</code> can be downloaded from <a href="https://cran.r-project.org">CRAN</a>. We provide a standard R interface, so no surpises there.
  
 ```r
 install.packages("till")

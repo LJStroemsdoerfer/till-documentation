@@ -2,7 +2,7 @@
 
 ## Installation
 
-<code>till</code> can be downloaded from <a href="https://pypi.org">PyPi</code>. We provide a standard Python interface, so no surpises there. 
+<code>till</code> can be downloaded from <a href="https://pypi.org">PyPi</a>. We provide a standard Python interface, so no surpises there. 
 
 ```console
 $ pip install till
