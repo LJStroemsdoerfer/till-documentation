@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://till.till-io.com/</loc>
+     <lastmod>2020-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://till.till-io.com/python/python-main/</loc>
+     <lastmod>2020-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://till.till-io.com/R/r-main/</loc>
+     <lastmod>2020-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
